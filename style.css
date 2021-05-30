@@ -10,6 +10,7 @@ section{
     background-image: url("images/photo\ background.jpg");
     background-size: 2000px;
     background-repeat: no-repeat;
+    
 }
 .half-width{
     width: 40%;
@@ -50,7 +51,7 @@ h3{
     width: 100%;
 }
 .experience{
-    background: url("images/back3.jpg");
+    background: url("images/maxresdefault.jpg");
     background-repeat: no-repeat;
     background-size: 2000px;
     background-position: left;
@@ -75,4 +76,7 @@ h3{
 }
 footer {
     text-align: center;
+}
+.red{
+    color: yellow;
 }
